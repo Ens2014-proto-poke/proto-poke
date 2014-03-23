@@ -1,0 +1,85 @@
+[
+  {
+    "name": "PRESENTATION DE L'UE",
+    "colour": "#F00",
+    "children": [
+      {
+        "name": "Objectif du cours",
+        "colour": "#F33",
+        "url": "..."
+      },
+      {
+        "name": "plan du cours",
+        "colour": "#F44"
+      },
+      {
+        "name": "Agenda",
+        "colour": "#F55"
+      },
+      {
+        "name": "Réferentiel du master",
+        "colour": "#F66"
+      }
+    ]
+  },
+  {
+    "name": "PUBLICATIONS",
+    "colour": "#00F",
+    "children": [
+      {
+        "name": "Hypotheses",
+        "colour": "#33F"
+      },
+      {
+        "name": "Crocodoc",
+        "colour": "#44F"
+      },
+      {
+        "name": "Twitter",
+        "colour": "#55F"
+      }
+    ]
+  },
+  {
+    "name": "OUTILS DE TRAVAIL",
+    "children": [
+      {
+        "name": "Le cahier de cours",
+        "colour": "#0F0"
+      },
+      {
+        "name": "Ferme de pad",
+        "colour": "#4F4"
+      },
+      {
+        "name": "Google drive",
+        "colour": "#5F5"
+      },
+      {
+        "name": "Own Cloud",
+        "colour": "#6F6"
+      }
+    ]
+  },
+  {
+    "name": "ENSEIGNANTS DE L'UE",
+    "children": [
+      {
+        "name": "Professeur 1",
+        "colour": "#0FF"
+      },
+      {
+        "name": "Professeur 2",
+        "colour": "#4FF"
+      },
+      {
+        "name": "Professeur 3",
+        "colour": "#5FF"
+      },
+      {
+        "name": "Professeur 4",
+        "colour": "#6FF"
+      }
+    ]
+  }
+]
